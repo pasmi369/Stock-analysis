@@ -1,4 +1,5 @@
 # VBA Stock analysis
+- Perform data analysis of Steve's stock data using Excel formulas for calculations.
 
 ## Overview of the project:
 - The project wants to expand the dataset to include the entire stock market over the last few years. It will help to calculate the stock price change for the year, the price percent change for the year, and the total volume traded for that year. It will then sort through the calculated data. 
